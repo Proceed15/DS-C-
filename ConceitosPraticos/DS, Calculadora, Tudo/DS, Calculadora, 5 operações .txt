@@ -1,0 +1,45 @@
+using System;
+
+public class Program
+{
+    public static void Main()
+    {
+        Console.WriteLine("Calculadora, 5 operações.\n");
+        //Nome: José Roberto Lisboa S. Filho.
+        //2ºano A, DS.        
+        double num1 = 0, num2 = 0;
+        int opcao = 0;
+
+        Console.WriteLine("\nEscolha uma operação:\n");
+        Console.WriteLine("\nSoma = 1; \nSubtração = 2; \nMultiplicação = 3; \nDivisão = 4; \nPotência = 5.\n");
+        opcao = int.Parse(Console.ReadLine());
+        if (opcao > 0 && opcao < 6)
+        {
+            Console.WriteLine("\nDigite um número:\n");
+            num1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("\nDigite outro número\n");
+            num2 = int.Parse(Console.ReadLine());
+        }
+        switch (opcao)
+        {
+            default:
+                Console.WriteLine("\nEscolha inválida.");
+                break;
+            case 1:
+                Console.WriteLine(num1 + num2);
+                break;
+            case 2:
+                Console.WriteLine(num1 - num2);
+                break;
+            case 3:
+                Console.WriteLine(num1 * num2);
+                break;
+            case 4:
+                Console.WriteLine(num1 / num2);
+                break;
+            case 5:
+                Console.WriteLine(Math.Pow(num1, num2));
+                break;
+        }
+    }
+}
