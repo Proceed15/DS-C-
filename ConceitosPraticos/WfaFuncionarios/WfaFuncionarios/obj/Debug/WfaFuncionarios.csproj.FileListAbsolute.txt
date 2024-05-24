@@ -1,0 +1,40 @@
+C:\Users\moise_000\Videos\Tarefas\WfaFuncionarios\WfaFuncionarios\bin\Debug\WfaFuncionarios.exe.config
+C:\Users\moise_000\Videos\Tarefas\WfaFuncionarios\WfaFuncionarios\bin\Debug\WfaFuncionarios.exe
+C:\Users\moise_000\Videos\Tarefas\WfaFuncionarios\WfaFuncionarios\bin\Debug\WfaFuncionarios.pdb
+C:\Users\moise_000\Videos\Tarefas\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.csproj.AssemblyReference.cache
+C:\Users\moise_000\Videos\Tarefas\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.FrmFuncionarios.resources
+C:\Users\moise_000\Videos\Tarefas\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.Properties.Resources.resources
+C:\Users\moise_000\Videos\Tarefas\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.csproj.GenerateResource.cache
+C:\Users\moise_000\Videos\Tarefas\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\moise_000\Videos\Tarefas\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.exe
+C:\Users\moise_000\Videos\Tarefas\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.pdb
+C:\Users\José\Desktop\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\bin\Debug\WfaFuncionarios.exe.config
+C:\Users\José\Desktop\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\bin\Debug\WfaFuncionarios.exe
+C:\Users\José\Desktop\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\bin\Debug\WfaFuncionarios.pdb
+C:\Users\José\Desktop\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.csproj.AssemblyReference.cache
+C:\Users\José\Desktop\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.FrmFuncionarios.resources
+C:\Users\José\Desktop\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.Properties.Resources.resources
+C:\Users\José\Desktop\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.csproj.GenerateResource.cache
+C:\Users\José\Desktop\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\José\Desktop\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.exe
+C:\Users\José\Desktop\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.pdb
+C:\Users\José\Desktop\DS, Atividades, 2º Bimestre\DS, Atividades, 2º Bimestre\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\bin\Debug\WfaFuncionarios.exe.config
+C:\Users\José\Desktop\DS, Atividades, 2º Bimestre\DS, Atividades, 2º Bimestre\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\bin\Debug\WfaFuncionarios.exe
+C:\Users\José\Desktop\DS, Atividades, 2º Bimestre\DS, Atividades, 2º Bimestre\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\bin\Debug\WfaFuncionarios.pdb
+C:\Users\José\Desktop\DS, Atividades, 2º Bimestre\DS, Atividades, 2º Bimestre\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.csproj.AssemblyReference.cache
+C:\Users\José\Desktop\DS, Atividades, 2º Bimestre\DS, Atividades, 2º Bimestre\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.FrmFuncionarios.resources
+C:\Users\José\Desktop\DS, Atividades, 2º Bimestre\DS, Atividades, 2º Bimestre\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.Properties.Resources.resources
+C:\Users\José\Desktop\DS, Atividades, 2º Bimestre\DS, Atividades, 2º Bimestre\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.csproj.GenerateResource.cache
+C:\Users\José\Desktop\DS, Atividades, 2º Bimestre\DS, Atividades, 2º Bimestre\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\José\Desktop\DS, Atividades, 2º Bimestre\DS, Atividades, 2º Bimestre\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.exe
+C:\Users\José\Desktop\DS, Atividades, 2º Bimestre\DS, Atividades, 2º Bimestre\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.pdb
+C:\Users\Jose\Desktop\Arquivos Etec\DS, Atividades, 2º Bimestre\DS, Atividades, 2º Bimestre\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\bin\Debug\WfaFuncionarios.exe.config
+C:\Users\Jose\Desktop\Arquivos Etec\DS, Atividades, 2º Bimestre\DS, Atividades, 2º Bimestre\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\bin\Debug\WfaFuncionarios.exe
+C:\Users\Jose\Desktop\Arquivos Etec\DS, Atividades, 2º Bimestre\DS, Atividades, 2º Bimestre\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\bin\Debug\WfaFuncionarios.pdb
+C:\Users\Jose\Desktop\Arquivos Etec\DS, Atividades, 2º Bimestre\DS, Atividades, 2º Bimestre\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\Arquivos Etec\DS, Atividades, 2º Bimestre\DS, Atividades, 2º Bimestre\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.FrmFuncionarios.resources
+C:\Users\Jose\Desktop\Arquivos Etec\DS, Atividades, 2º Bimestre\DS, Atividades, 2º Bimestre\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.Properties.Resources.resources
+C:\Users\Jose\Desktop\Arquivos Etec\DS, Atividades, 2º Bimestre\DS, Atividades, 2º Bimestre\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.csproj.GenerateResource.cache
+C:\Users\Jose\Desktop\Arquivos Etec\DS, Atividades, 2º Bimestre\DS, Atividades, 2º Bimestre\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Arquivos Etec\DS, Atividades, 2º Bimestre\DS, Atividades, 2º Bimestre\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.exe
+C:\Users\Jose\Desktop\Arquivos Etec\DS, Atividades, 2º Bimestre\DS, Atividades, 2º Bimestre\WfaFuncionarios\WfaFuncionarios\WfaFuncionarios\obj\Debug\WfaFuncionarios.pdb
